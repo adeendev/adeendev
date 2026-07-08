@@ -44,17 +44,12 @@
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/tRPC-2596BE?logo=trpc&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/REST%20APIs-005571?logo=fastapi&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Socket.io-010101?logo=socketdotio&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Webhooks-FF6F00?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Serverless%20Functions-FD5750?logo=vercel&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Microservices-4A90E2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Cron%20Jobs-FF4B4B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Message%20Queues-6E40C9?style=for-the-badge" />
 </p>
 
 ---
