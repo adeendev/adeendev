@@ -14,23 +14,8 @@
 
 <img align="right" alt="Coding GIF" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
-```typescript
-const adeen: Developer = {
-  name: "Muhammad Adeen Khan",
-  role: "Full Stack Engineer | AI Automation Builder",
-  company: "Vertiqx (Founder & CEO)",
-  focus: "Next.js, React, AI-powered SaaS products",
-  location: "Karachi, Pakistan 🇵🇰",
-  building: "Kieto — visual feedback tool for agencies & dev teams",
-  passion: ["Shipping fast", "AI Automation", "Real products, not side projects"],
-  lifePhilosophy: "Build first, talk later 🚀",
-};
-```
-
 - 🛠️ Self-taught engineer, building production SaaS from scratch
 - 🤖 Deep into AI automation — Groq, LLM workflows, agentic tooling
-- 🚀 Currently building **Kieto**, a Chrome extension + dashboard for visual website feedback
-- 💼 Founder & CEO of **Vertiqx**
 - 🎯 Solo-builder mindset — ship first, iterate fast
 - 📚 Always exploring new tools and unconventional ideas over saturated trends
 
@@ -54,9 +39,22 @@ const adeen: Developer = {
 
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Postgres-316192?logo=postgresql&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/tRPC-2596BE?logo=trpc&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/REST%20APIs-005571?logo=fastapi&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Socket.io-010101?logo=socketdotio&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Webhooks-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Serverless%20Functions-FD5750?logo=vercel&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Microservices-4A90E2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cron%20Jobs-FF4B4B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Message%20Queues-6E40C9?style=for-the-badge" />
 </p>
 
 ---
@@ -97,6 +95,12 @@ const adeen: Developer = {
   <img src="https://img.shields.io/badge/Gemini-4285F4?logo=google&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Claude-D97706?logo=anthropic&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?logo=n8n&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Vector%20DBs-6236FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG%20Pipelines-00A67E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%20Agents-FF6F61?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-8E44AD?style=for-the-badge" />
 </p>
 
 ---
