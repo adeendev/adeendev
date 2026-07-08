@@ -61,12 +61,30 @@ const adeen: Developer = {
 
 ---
 
+### 💾 <u>**Databases & ORM**</u>
+
+<p>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Neon-00E599?logo=neon&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Firebase%20Firestore-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" />
+</p>
+
+---
+
 ### 🔐 <u>**Auth & Payments**</u>
 
 <p>
   <img src="https://img.shields.io/badge/Clerk-000000?logo=clerk&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Firebase%20Auth-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Lemon%20Squeezy-FFC233?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Paddle-1A1A2E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Stripe-635BFF?logo=stripe&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OAuth2-EB5424?logo=auth0&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white&style=for-the-badge" />
 </p>
 
@@ -83,10 +101,15 @@ const adeen: Developer = {
 
 ---
 
-### 🌐 <u>**Deployment & Tools**</u>
+### 🌐 <u>**Deployment & DevOps**</u>
 
 <p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Chrome%20Extensions-4285F4?logo=googlechrome&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge" />
