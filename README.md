@@ -1,110 +1,107 @@
-<h1 align="center">Hey, I'm Muhammad Adeen Khan 👋</h1>
-<h3 align="center">Full Stack Engineer · Self-Taught · Building from Karachi</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/adeen-khan-552155264/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://contra.com/adeenkhan">
-    <img src="https://img.shields.io/badge/Contra-111111?style=for-the-badge&logoColor=white" />
-  </a>
-  <a href="https://adeenportfolio.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
+  <!-- Animated Wave Header -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,25,26,27,28,29&height=280&section=header&text=ADEEN%20KHAN&fontSize=68&fontAlignY=35&fontColor=fff&animation=fadeIn&desc=Full%20Stack%20Engineer%20|%20AI%20Automation%20Builder&descSize=24&descAlignY=55&descAlign=50" />
+
+  <!-- Animated Typing Effect -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=500&color=D97706&center=true&vCenter=true&width=900&lines=%F0%9F%9A%80+Building+Kieto+-+Visual+Feedback+SaaS;%F0%9F%A4%96+Shipping+AI-Powered+Web+Products;%F0%9F%92%BB+Next.js+%2B+React+%2B+AI+Automation;%E2%9A%A1+Solo+Builder+%7C+Ship-First+Mentality" alt="Typing SVG" />
+
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+</div>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> **_*About Me*_**
+
+<img align="right" alt="Coding GIF" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
+
+```typescript
+const adeen: Developer = {
+  name: "Muhammad Adeen Khan",
+  role: "Full Stack Engineer | AI Automation Builder",
+  company: "Vertiqx (Founder & CEO)",
+  focus: "Next.js, React, AI-powered SaaS products",
+  location: "Karachi, Pakistan 🇵🇰",
+  building: "Kieto — visual feedback tool for agencies & dev teams",
+  passion: ["Shipping fast", "AI Automation", "Real products, not side projects"],
+  lifePhilosophy: "Build first, talk later 🚀",
+};
+```
+
+- 🛠️ Self-taught engineer, building production SaaS from scratch
+- 🤖 Deep into AI automation — Groq, LLM workflows, agentic tooling
+- 🚀 Currently building **Kieto**, a Chrome extension + dashboard for visual website feedback
+- 💼 Founder & CEO of **Vertiqx**
+- 🎯 Solo-builder mindset — ship first, iterate fast
+- 📚 Always exploring new tools and unconventional ideas over saturated trends
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> **_*Tech Arsenal*_**
+
+### 🎨 <u>**Frontend**</u>
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?logo=framer&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GSAP-88CE02?logo=greensock&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Three.js-000000?logo=three.js&logoColor=white&style=for-the-badge" />
 </p>
 
 ---
 
-### My Story
+### 🏗️ <u>**Backend**</u>
 
-I didn't take a course. I didn't follow a roadmap. I just opened a code editor one day, got hooked, and never stopped.
-
-I'm 18, based in Karachi, and I've been building things on the web entirely on my own — no CS degree, no bootcamp, just obsessive learning and shipping real projects. What started as curiosity became a full stack skillset across frontend, backend, cloud infrastructure, and extension development.
-
-I don't just build features. I build products — end to end, from database schema to deployed UI. I care deeply about performance, clean architecture, and the details that make software feel premium.
-
-Currently deep in SaaS territory, working on things that solve real problems. Also open to freelance — if you need something built right, let's talk.
-
----
-
-### 🔭 What I'm Up To
-
-- 🚀 &nbsp;Building a SaaS product from the ground up — solo
-- 💼 &nbsp;Open to freelance — Next.js, React, full stack builds
-- 🌱 &nbsp;Exploring AI tooling and automation workflows
-- 📫 &nbsp;**adeenkhan6421@gmail.com**
-
----
-
-### ⚡ A Few Things About Me
-
-- 🌙 &nbsp;I do my best work late at night when everything is quiet
-- 🔁 &nbsp;I've rewritten the same feature 3 times just to make it cleaner — and I'd do it again
-- 🧠 &nbsp;I learn by building, not by watching tutorials
-- 🌍 &nbsp;Self-taught from a city most devs aren't building from — and that's the point
-
----
-
-### 💻 Stack
-
-**Frontend**
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-**Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-**Databases**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Neon](https://img.shields.io/badge/Neon-000000?style=flat-square&logoColor=white)
-
-**Infrastructure & DevOps**
-
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-
-**Version Control**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adeendev&show_icons=true&count_private=true&include_all_commits=true&theme=dark&bg_color=0d1117&border_color=30363d&icon_color=58a6ff&title_color=58a6ff&text_color=c9d1d9" />
-  &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adeendev&layout=compact&langs_count=6&theme=dark&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=adeendev&theme=dark&background=0d1117&border=30363d&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e" />
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Postgres-316192?logo=postgresql&logoColor=white&style=for-the-badge" />
 </p>
 
 ---
 
-<p align="center">
-  <sub>Self-taught. Shipping real things. Still going.</sub>
+### 🔐 <u>**Auth & Payments**</u>
+
+<p>
+  <img src="https://img.shields.io/badge/Clerk-000000?logo=clerk&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Lemon%20Squeezy-FFC233?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Paddle-1A1A2E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white&style=for-the-badge" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=adeendev&label=Profile+Views&color=0e75b6&style=flat" />
+---
+
+### 🤖 <u>**AI & Automation**</u>
+
+<p>
+  <img src="https://img.shields.io/badge/Groq-F55036?logo=groq&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Gemini-4285F4?logo=google&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Claude-D97706?logo=anthropic&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white&style=for-the-badge" />
 </p>
+
+---
+
+### 🌐 <u>**Deployment & Tools**</u>
+
+<p>
+  <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Chrome%20Extensions-4285F4?logo=googlechrome&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge" />
+</p>
+
+---
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adeenkhan/adeenkhan/output/github-snake-dark.svg" width='100%'/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adeenkhan/adeenkhan/output/github-snake.svg" width='100%' />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/adeenkhan/adeenkhan/output/github-snake.svg" width='100%' />
+  </picture>
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,25,26,27,28,29&height=120&section=footer&text=Let's%20Build%20Something%20Real!&fontSize=20&fontAlignY=70&fontColor=FFFFFF&animation=twinkling" />
+
+</div>
