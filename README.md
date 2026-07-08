@@ -8,6 +8,8 @@
 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+  <img src="https://komarev.com/ghpvc/?username=adeenkhan&color=D97706&style=for-the-badge&label=PROFILE+VIEWS" />
+
 </div>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> **_*About Me*_**
@@ -113,6 +115,24 @@
   <img src="https://img.shields.io/badge/Chrome%20Extensions-4285F4?logo=googlechrome&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge" />
 </p>
+
+---
+
+## <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="35"> **_*GitHub Stats*_**
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adeenkhan&show_icons=true&theme=dark&hide_border=true&bg_color=0c0c0e&title_color=D97706&icon_color=D97706&text_color=ffffff" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adeenkhan&theme=dark&hide_border=true&background=0c0c0e&ring=D97706&fire=D97706&currStreakLabel=D97706" width="49%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adeenkhan&layout=compact&theme=dark&hide_border=true&bg_color=0c0c0e&title_color=D97706&text_color=ffffff" width="49%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adeenkhan&theme=react-dark&hide_border=true&bg_color=0c0c0e&color=D97706&line=D97706&point=ffffff" width="49%" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=adeenkhan&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6" />
+</div>
 
 ---
 
