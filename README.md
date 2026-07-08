@@ -121,17 +121,17 @@
 ## <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="35"> **_*GitHub Stats*_**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adeenkhan&show_icons=true&theme=dark&hide_border=true&bg_color=0c0c0e&title_color=D97706&icon_color=D97706&text_color=ffffff" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adeenkhan&theme=dark&hide_border=true&background=0c0c0e&ring=D97706&fire=D97706&currStreakLabel=D97706" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adeenkhan&show_icons=true&theme=dark&hide_border=true&bg_color=0c0c0e&title_color=39D353&icon_color=39D353&text_color=ffffff" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adeenkhan&theme=dark&hide_border=true&background=0c0c0e&ring=39D353&fire=39D353&currStreakLabel=39D353" width="49%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adeenkhan&layout=compact&theme=dark&hide_border=true&bg_color=0c0c0e&title_color=D97706&text_color=ffffff" width="49%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adeenkhan&theme=react-dark&hide_border=true&bg_color=0c0c0e&color=D97706&line=D97706&point=ffffff" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adeenkhan&layout=compact&theme=dark&hide_border=true&bg_color=0c0c0e&title_color=39D353&text_color=ffffff" width="49%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adeenkhan&theme=react-dark&hide_border=true&bg_color=0c0c0e&color=39D353&line=39D353&point=ffffff" width="49%" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adeenkhan&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=adeenkhan&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=6" />
 </div>
 
 ---
