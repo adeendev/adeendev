@@ -4,7 +4,7 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,25,26,27,28,29&height=280&section=header&text=ADEEN%20KHAN&fontSize=68&fontAlignY=35&fontColor=fff&animation=fadeIn&desc=Full%20Stack%20Engineer%20|%20AI%20Automation%20Builder&descSize=24&descAlignY=55&descAlign=50" />
 
   <!-- Animated Typing Effect -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=500&color=D97706&center=true&vCenter=true&width=900&lines=%F0%9F%9A%80+Building+Kieto+-+Visual+Feedback+SaaS;%F0%9F%A4%96+Shipping+AI-Powered+Web+Products;%F0%9F%92%BB+Next.js+%2B+React+%2B+AI+Automation;%E2%9A%A1+Solo+Builder+%7C+Ship-First+Mentality" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=500&color=D97706&center=true&vCenter=true&width=900&lines=%F0%9F%A4%96+Shipping+AI-Powered+Web+Products;%F0%9F%92%BB+Next.js+%2B+React+%2B+AI+Automation;%E2%9A%A1+Solo+Builder+%7C+Ship-First+Mentality" alt="Typing SVG" />
 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
