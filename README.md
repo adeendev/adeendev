@@ -4,11 +4,11 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,25,26,27,28,29&height=280&section=header&text=ADEEN%20KHAN&fontSize=68&fontAlignY=35&fontColor=fff&animation=fadeIn&desc=Full%20Stack%20Engineer%20|%20AI%20Automation%20Builder&descSize=24&descAlignY=55&descAlign=50" />
 
   <!-- Animated Typing Effect -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=500&color=D97706&center=true&vCenter=true&width=900&lines=%F0%9F%A4%96+Shipping+AI-Powered+Web+Products;%F0%9F%92%BB+Next.js+%2B+React+%2B+AI+Automation;%E2%9A%A1+Solo+Builder+%7C+Ship-First+Mentality" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=500&color=D97706&center=true&vCenter=true&width=900&lines=%F0%9F%A4%96+Shipping+AI-Powered+Web+Products;%F0%9F%92%BB+Next.js+%2B+React+%2B+AI+Automation;%E2%9A%A1+Solo+Builder+%7C+Ship-First+Mentality" alt="Typing SVG" />
 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-  <img src="https://komarev.com/ghpvc/?username=adeenkhan&color=D97706&style=for-the-badge&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=adeendev&color=D97706&style=for-the-badge&label=PROFILE+VIEWS" />
 
 </div>
 
@@ -121,26 +121,26 @@
 ## <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="35"> **_*GitHub Stats*_**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adeenkhan&show_icons=true&theme=dark&hide_border=true&bg_color=0c0c0e&title_color=39D353&icon_color=39D353&text_color=ffffff" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adeenkhan&theme=dark&hide_border=true&background=0c0c0e&ring=39D353&fire=39D353&currStreakLabel=39D353" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adeendev&show_icons=true&theme=dark&hide_border=true&bg_color=0c0c0e&title_color=39D353&icon_color=39D353&text_color=ffffff" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=adeendev&theme=dark&hide_border=true&background=0c0c0e&ring=39D353&fire=39D353&currStreakLabel=39D353" width="49%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adeenkhan&layout=compact&theme=dark&hide_border=true&bg_color=0c0c0e&title_color=39D353&text_color=ffffff" width="49%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adeenkhan&theme=react-dark&hide_border=true&bg_color=0c0c0e&color=39D353&line=39D353&point=ffffff" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adeendev&layout=compact&theme=dark&hide_border=true&bg_color=0c0c0e&title_color=39D353&text_color=ffffff" width="49%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adeendev&theme=react-dark&hide_border=true&bg_color=0c0c0e&color=39D353&line=39D353&point=ffffff" width="49%" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adeenkhan&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=adeendev&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=6" />
 </div>
 
 ---
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adeenkhan/adeenkhan/output/github-snake-dark.svg" width='100%'/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adeenkhan/adeenkhan/output/github-snake.svg" width='100%' />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/adeenkhan/adeenkhan/output/github-snake.svg" width='100%' />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adeendev/adeendev/output/github-snake-dark.svg" width='100%'/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adeendev/adeendev/output/github-snake.svg" width='100%' />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/adeendev/adeendev/output/github-snake.svg" width='100%' />
   </picture>
 </div>
 
