@@ -121,28 +121,16 @@
 ## <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="35"> **_*GitHub Stats*_**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adeendev&show_icons=true&theme=dark&hide_border=true&bg_color=0c0c0e&title_color=39D353&icon_color=39D353&text_color=ffffff&cache_seconds=86400" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=adeendev&theme=dark&hide_border=true&background=0c0c0e&ring=39D353&fire=39D353&currStreakLabel=39D353" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adeendev&show_icons=true&theme=dark&hide_border=true&border_radius=12&bg_color=0c0c0e&title_color=39D353&icon_color=39D353&text_color=ffffff&cache_seconds=86400" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=adeendev&theme=dark&hide_border=true&border_radius=12&background=0c0c0e&ring=39D353&fire=39D353&currStreakLabel=39D353&sideNums=ffffff&sideLabels=ffffff&dates=6b7280" width="48%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adeendev&layout=compact&theme=dark&hide_border=true&bg_color=0c0c0e&title_color=39D353&text_color=ffffff&cache_seconds=86400" width="49%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adeendev&theme=react-dark&hide_border=true&bg_color=0c0c0e&color=39D353&line=39D353&point=ffffff" width="49%" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adeendev&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=6" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adeendev&layout=compact&theme=dark&hide_border=true&border_radius=12&bg_color=0c0c0e&title_color=39D353&text_color=ffffff&langs_count=8&cache_seconds=86400" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adeendev&theme=react-dark&hide_border=true&border_radius=12&bg_color=0c0c0e&color=39D353&line=39D353&point=ffffff&area=true&area_color=39D353" width="48%" />
 </div>
 
 ---
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adeendev/adeendev/output/github-snake-dark.svg" width='100%'/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adeendev/adeendev/output/github-snake.svg" width='100%' />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/adeendev/adeendev/output/github-snake.svg" width='100%' />
-  </picture>
-</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,25,26,27,28,29&height=120&section=footer&text=Let's%20Build%20Something%20Real!&fontSize=20&fontAlignY=70&fontColor=FFFFFF&animation=twinkling" />
 
